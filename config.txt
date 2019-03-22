@@ -3,3 +3,5 @@
 	email = anneli.klamas@gmail.com
 [core]
 	editor = code
+
+.rar - a proprietary archive file format that supports data compression, error recovery and file spanning.
