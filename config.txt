@@ -1,0 +1,5 @@
+[user]
+	name = Anneli Klamas
+	email = anneli.klamas@gmail.com
+[core]
+	editor = code
